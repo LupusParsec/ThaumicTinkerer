@@ -13,8 +13,8 @@ item.thaumictinkerer:form_revealer.name=Multiblock Guide
 item.thaumictinkerer:spellbinding_cloth.name=Spellbinding Cloth
 item.thaumictinkerer:soul_mould.name=Soul Mould
 item.thaumictinkerer:blood_sword.name=Cursed Spirit's Blade
-item.thaumictinkerer:mob_aspect.name=Mob Aspect
 
+item.thaumictinkerer:mob_aspect.name=Mob Aspect
 tile.thaumictinkerer:funnel.name=Essentia Funnel
 tile.thaumictinkerer:funnel.0=Even Transfer
 
@@ -32,10 +32,11 @@ tile.thaumictinkerer:enchantment_pillar.name=Enchanting Pillar
 tile.thaumictinkerer:black_quartz_block.name=Black Quartz Block
 tile.thaumictinkerer:example.name=Placeholder Block
 
-thaumictinkerer.TELEKENESIS.name=Telekenesis
-thaumictinkerer.mobaspect.type=Aspect: %s
-thaumictinkerer.mobaspect.invalid=Invalid Aspect
+thaumictinkerer.TELEKENESIS.name=Telekinesis
+thaumictinkerer.TELEKENESIS.text=Attracts or repels objects in relation to a single point.
 
+dislocation.name=Dislocation
+dislocation.text=Stores blocks within the focus temporarely to relocate them without breaking.
 
 thaumictinkerer.config.title=Thaumic Tinkerer Config
 thaumictinkerer.config.talisman=Talisman of Remedium Uses
@@ -106,6 +107,7 @@ thaumictinkerer.research.DISLOCATE.0=After so much work was put into discovering
 thaumictinkerer.research.DISLOCATE.1=Success! After some experimentation, many lost blocks of cobblestone, and an invasion of endermen or two,  I substituted permutatio for desiderium, so the effect desired to hold on longer, and now I have a pattern that can temporarily store blocks to move them. <BR> Once applied to a focus, left click on a block to store it within the focus, then left click again to place the block.
 
 thaumictinkerer.research.prismarine.title=Aquatic Alchemy
+thaumictinkerer.research.prismarine.0=I wonder if the seas could have something for me. It's a such a vast place. The sea is the biggest Crucible in the world. Always heated by the sun and filled with so many things in the depts, made me think that maybe it can allow some magical properties to flow through itself, and sometimes, these properties get concentrated in some places, maybe trying to create Vis Crystals, but the ocean's nature doesn't helps.<BR>The water keeps them in motion, so, in order to accumulate, they need to get in something solid. With the Ocean Monuments being down there, they're continuously being hit by all the essentia in the water and they have been like this for so many years.<BR>I'm almost sure that some kind of magic lies in those Prismarine, even if it's just a bit. Prismarine have a prismatic pattern and are surrounded by water, huh... Besides being transparent, Glass is similar in some ways. This may become a slow process, but working with Glass in small quantities, maybe I can recreate Prismarine.
 
 thaumictinkerer.research.spellbinding_cloth.title=Spellbinding Cloth
 thaumictinkerer.research.spellbinding_cloth.lore=The sad palmtop thaumaturge
